@@ -39,7 +39,7 @@ Reusable components.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/m7ez1n/scrawlr-assessment
+git clone https://github.com/m7ez1n/scrawlr-challenge
 cd scrawlr
 ```
 

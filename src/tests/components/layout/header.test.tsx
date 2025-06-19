@@ -32,7 +32,7 @@ describe("Header", () => {
 
     expect(screen.getByAltText("Scrawlr Logo")).toBeInTheDocument();
     expect(screen.getByPlaceholderText("Search list by id")).toBeInTheDocument();
-    expect(screen.getByRole("link")).toHaveAttribute("href", "https://github.com/m7ez1n/scrawlr-assessment");
+    expect(screen.getByRole("link")).toHaveAttribute("href", "https://github.com/m7ez1n/scrawlr-challenge");
   });
 
   it("updates search value when input changes", () => {

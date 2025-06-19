@@ -19,7 +19,7 @@ export const Header = () => {
         />
 
         <a
-          href="https://github.com/m7ez1n/scrawlr-assessment"
+          href="https://github.com/m7ez1n/scrawlr-challenge"
           target="_blank"
           rel="noopener noreferrer"
           className={buttonVariants({ variant: "outline", size: "icon" })}
