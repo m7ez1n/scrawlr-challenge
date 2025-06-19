@@ -1,6 +1,9 @@
 <div align="center">
-  <img src="public/assets/scrawlr-logo.png" alt="Scrawlr Logo" width="200"/>
+  <img src="public/assets/scrawlr-logo.png" alt="Scrawlr Logo" width="250"/>
 </div>
+
+<br/>
+<br/>
 
 Create a React upvote system where each list works independently - clicking any upvote toggles the ENTIRE list.
 
