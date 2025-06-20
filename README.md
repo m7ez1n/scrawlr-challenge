@@ -19,7 +19,7 @@
   - [⌛ Timeline](#timeline)
   - [Conclusion](#conclusion)
 
-## 🎯 About
+## About
 
 Create a React upvote system where each list works independently - clicking any upvote toggles the ENTIRE list.
 
@@ -38,7 +38,7 @@ Reusable components.
 <img width="200" alt="mobile-image" src="./.github/assets//mobile-image.png" />
 </div>
 
-## 🚀 Features
+## Features
 
 - Modern and responsive UI with Tailwind CSS
 - Type-safe development with TypeScript
@@ -47,12 +47,12 @@ Reusable components.
 - Comprehensive testing with Vitest
 - Code quality tools with Biome
 
-## 📋 Prerequisites
+## Prerequisites
 
 - Node.js (v18 or higher)
 - pnpm (recommended), npm, or yarn
 
-## 🛠️ Installation
+## Installation
 
 ### Option 1: Local Development
 
@@ -118,7 +118,7 @@ The application will be available at `http://localhost:5173`
 - ✅ Automatic dependency installation
 - ✅ Built-in code formatting with Biome
 
-## 🧪 Testing
+## Testing
 
 Run the test suite:
 ```bash
@@ -131,9 +131,9 @@ npm run test
 yarn test
 ```
 
-## 📚 Development Roadmap
+## Development Roadmap
 
-### 🚀 Chosen Technologies
+### Chosen Technologies
 
 - [React with Vite](https://vitejs.dev/guide/) 
   - Extremely fast build tool with optimized HMR (Hot Module Replacement)
@@ -187,7 +187,7 @@ yarn test
   - Right tool for the scope 
     - Avoids over-engineering a simple system, shows technical maturity in tool selection
 
-### ⌛ Timeline 
+### Timeline 
 
 #### Beginning
 1. Understanding project scope and requirements
